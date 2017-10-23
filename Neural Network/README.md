@@ -1,4 +1,4 @@
-## This is the README file of the KNN algorithm.
+## This is the README file of the Neural Network algorithm using sklearn
 
 ### Prerequisite packages:
 
