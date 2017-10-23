@@ -1,0 +1,1 @@
+Save naivebayes.py in the same folder where train_set_x, test_set_x and train_set_y are located. Run naivebayes.py in any Python 2 interpreter and it will create a file theoutput.csv with the predictions.
